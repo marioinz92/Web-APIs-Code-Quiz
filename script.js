@@ -3,6 +3,36 @@
 // THEN a timer starts and I am presented with a question
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// const button = document.createElement('button');
+
+// button.innerText = 'play';
+
+// button.addEventListener('click', function() {
+//     console.log('button clicked!');
+// })
+
+// const parentElement = document.getElementById("parent");
+
+// parentElement.appendChild(button);
 // WHEN I answer a question
 // THEN I am presented with another question
 
