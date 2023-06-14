@@ -1,4 +1,47 @@
+#quiz-container {
+  background-color: white;
+  padding: 20px;
+  border: 1px solid white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;   
+  
+}
 
+#start-button {
+  background-color: purple
+}
+
+button {
+    
+    display: block;
+    margin-bottom: 10px;
+    background-color: purple
+}
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
 h1 {
     color: blueviolet;
     text-align: center;
@@ -18,4 +61,4 @@ button {
     color: rgb(231, 12, 12);
     background-color: rgb(38, 34, 34);
 
-}
+} */

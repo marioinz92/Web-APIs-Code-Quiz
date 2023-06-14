@@ -48,8 +48,13 @@ const quizQuestions = [
         "array.insert(element)",
       ],
       answer: 0,
-    },
+    },  
+    
+    
   ];
+  
+
+
 
   let currentQuestionIndex = 0;
   let timeLeft = 60;
