@@ -15,5 +15,7 @@ button {
     top: 65%;
     padding: 20px 40px;
     font-size: 100px;
+    color: rgb(231, 12, 12);
+    background-color: rgb(38, 34, 34);
 
 }
